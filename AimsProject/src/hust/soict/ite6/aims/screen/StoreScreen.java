@@ -26,7 +26,7 @@ import javax.swing.JTextField;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 
-import hust.soict.ite6.aims.aims.Aims;
+import hust.soict.ite6.aims.Aims.Aims;
 import hust.soict.ite6.aims.media.Media;
 import hust.soict.ite6.aims.store.Store;
 import javafx.collections.FXCollections;

@@ -1,4 +1,5 @@
-package hust.soict.ite6.aims.aims;
+package hust.soict.ite6.aims.Aims;
+
 
 
 import java.util.Scanner;

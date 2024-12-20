@@ -2,7 +2,7 @@ package hust.soict.ite6.aims.screen;
 
 import javax.swing.JOptionPane;
 
-import hust.soict.ite6.aims.aims.Aims;
+import hust.soict.ite6.aims.Aims.Aims;
 import hust.soict.ite6.aims.cart.Cart;
 import hust.soict.ite6.aims.media.Media;
 import hust.soict.ite6.aims.media.Playable;
