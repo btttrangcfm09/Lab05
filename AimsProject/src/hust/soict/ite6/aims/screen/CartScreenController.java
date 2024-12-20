@@ -2,16 +2,10 @@ package hust.soict.ite6.aims.screen;
 
 import javax.swing.JOptionPane;
 
-import hust.soict.ite6.aims.Aims.Aims;
+import hust.soict.ite6.aims.aims.Aims;
 import hust.soict.ite6.aims.cart.Cart;
-import hust.soict.ite6.aims.exception.PlayerException;
 import hust.soict.ite6.aims.media.Media;
 import hust.soict.ite6.aims.media.Playable;
-import hust.soict.ite6.aims.screen.AddBookToStoreScreen;
-import hust.soict.ite6.aims.screen.AddCompactDiscToStoreScreen;
-import hust.soict.ite6.aims.screen.AddDigitalVideoDiscToStoreScreen;
-import hust.soict.ite6.aims.screen.DetailScreen;
-import hust.soict.ite6.aims.screen.PlaceOrderScreen;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.collections.transformation.FilteredList;
