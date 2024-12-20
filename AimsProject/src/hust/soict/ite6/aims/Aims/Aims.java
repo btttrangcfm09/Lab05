@@ -1,5 +1,7 @@
 package hust.soict.ite6.aims.Aims;
 
+
+
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;

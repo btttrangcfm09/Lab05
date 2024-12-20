@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import hust.soict.ite6.aims.aims.Aims;
+import hust.soict.ite6.aims.Aims.Aims;
 import hust.soict.ite6.aims.media.Media;
 public class PlaceOrderScreen {
 
