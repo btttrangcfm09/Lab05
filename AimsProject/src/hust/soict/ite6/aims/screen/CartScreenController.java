@@ -1,7 +1,8 @@
 package hust.soict.ite6.aims.screen;
 
 import javax.swing.JOptionPane;
-import hust.soict.ite6.aims.Aims;
+
+import hust.soict.ite6.aims.Aims.Aims;
 import hust.soict.ite6.aims.cart.Cart;
 import hust.soict.ite6.aims.exception.PlayerException;
 import hust.soict.ite6.aims.media.Media;

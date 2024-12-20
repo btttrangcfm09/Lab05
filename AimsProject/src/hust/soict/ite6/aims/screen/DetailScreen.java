@@ -15,7 +15,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-import hust.soict.ite6.aims.Aims;
+import hust.soict.ite6.aims.Aims.Aims;
 import hust.soict.ite6.aims.exception.DuplicatedItemException;
 import hust.soict.ite6.aims.media.Book;
 import hust.soict.ite6.aims.media.CompactDisc;
