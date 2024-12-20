@@ -10,8 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-import hust.soict.ite6.aims.Aims.Aims;
-import hust.soict.ite6.aims.exception.DuplicatedItemException;
+import hust.soict.ite6.aims.aims.Aims;
 import hust.soict.ite6.aims.media.DigitalVideoDisc;
 
 public class AddDigitalVideoDiscToStoreScreen extends AddItemToStoreScreen {

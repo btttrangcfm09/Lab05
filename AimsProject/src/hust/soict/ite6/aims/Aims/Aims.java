@@ -1,4 +1,5 @@
-package hust.soict.ite6.aims.Aims;
+package hust.soict.ite6.aims.aims;
+
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;
@@ -24,7 +25,7 @@ public class Aims {
     public static void main(String[] args) {
         store = new Store();
         cart = new Cart();
-
+    //
         Media[] sampleMedia = new Media[] {
                 new DigitalVideoDisc("Glory Of Outer Space", "Sci-fi", "Walter Jackson", 125, 31.5f),
 
