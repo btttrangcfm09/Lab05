@@ -24,7 +24,7 @@ public class Aims {
     public static void main(String[] args) {
         store = new Store();
         cart = new Cart();
-
+    //
         Media[] sampleMedia = new Media[] {
                 new DigitalVideoDisc("Glory Of Outer Space", "Sci-fi", "Walter Jackson", 125, 31.5f),
 
